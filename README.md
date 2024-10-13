@@ -14,4 +14,5 @@ User bisa memilih 2 mode login, yaitu mode Admin dan mode Peserta.
 
 # Penjelasan Program Login
 [1]. Admin : Mengelola daftar webinar yang tersedia, dan menerapkan CRUD (Create, Read, Update, dan Delete) pada webinar.
+
 [2]. Peserta : Melihat daftar webinar yang tersedia, dan mendaftar untuk mengikuti webinar.
