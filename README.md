@@ -4,7 +4,7 @@ Yardan Raditya Rafi' Widyadhana | 2409116037 | Sistem Informasi A 2024 | Tema Pr
 # Flowchart
 ![Yardan_Flowchart Mini Project 2 drawio](https://github.com/user-attachments/assets/d57f3a51-bce6-48af-a9ed-a8357bcf22a7)
 
-# Table Profil Diri
+# Tabel Profil Diri
 ![Screenshot 2024-10-13 200040](https://github.com/user-attachments/assets/5888d145-4246-4c77-bbcc-86542b7dfc6c)
 
 # Program Login
