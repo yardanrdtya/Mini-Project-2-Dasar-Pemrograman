@@ -79,9 +79,16 @@ Jika admin menginputkan input "tidak" maka program otomatis akan kembali ke mode
 
 ![Screenshot 2024-10-14 001119](https://github.com/user-attachments/assets/72ccf01e-6e26-4675-89a1-363f1eb35548)
 
+[5]. Keluar/Kembali ke Mode Login
 
+Operasi ini digunakan jika Admin sudah cukup menggunakan operasi-operasi yang sudah ada sebelumnya. Disini Admin diberikan 2 opsi, yaitu keluar dari program atau kembali ke Mode Login.
 
+![Screenshot 2024-10-14 001907](https://github.com/user-attachments/assets/08cf4512-94fe-47d3-9b07-c5db8cda894c)
 
+Jika Admin memilih "Keluar" maka Admin akan langsung ter-exit dari program dan program otomatis akan selesai.
 
+![Screenshot 2024-10-14 003112](https://github.com/user-attachments/assets/bca5dafc-a8f5-40e4-8b79-029ca573c1d8)
 
+Jika Admin memilih "Kembali" maka program otomatis akan kembali ke Mode Login.
 
+![Screenshot 2024-10-14 003245](https://github.com/user-attachments/assets/20f42162-b6a8-47a3-aa71-d5915f9f2e44)
