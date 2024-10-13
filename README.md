@@ -35,7 +35,7 @@ Setelah itu Admin diminta untuk menginputkan nomor webinar terbaru, daftar webin
 
 ![Screenshot 2024-10-13 213016](https://github.com/user-attachments/assets/bab2d70d-4b0e-4e21-9f1e-f276113dfd17)
 
-Jika Admin menginputkan input "ya", maka program otomatis akan melakukan perulangan operasi Create seperti semula.
+Jika Admin menginputkan input "ya", maka program otomatis akan kembali ke operasi Create seperti sebelumnya.
 
 ![Screenshot 2024-10-13 213535](https://github.com/user-attachments/assets/de926d0e-ac2e-472c-8691-ef038d6166e5)
 
@@ -57,12 +57,31 @@ Operasi ini digunakan untuk melakukan perubahan jadwal webinar, seperti tanggal 
 
 ![Screenshot 2024-10-13 230155](https://github.com/user-attachments/assets/76a485cb-5a58-45cf-9ace-2e040ec11acf)
 
-Jika jadwal webinar telah berhasil diubah maka program otomatis akan meng-update daftar webinar yang sudah ada sebelumnya.
+Jika jadwal webinar telah berhasil diubah maka program otomatis akan meng-update database webinar yang sudah ada sebelumnya.
 
 ![Screenshot 2024-10-13 231708](https://github.com/user-attachments/assets/45c3a417-2bc7-4da1-a0e6-72f387198aa5)
 
-Jika Admin menginputkan nilai yang tidak valid, maka program otomatis akan kembali ke operasi Update Webinar dan perubahan jadwal webinar tidak akan ter-update di daftar webinar yang sudah ada sebelumnya.
+Jika Admin menginputkan nilai yang tidak valid, maka program otomatis akan kembali ke operasi Update Webinar dan perubahan jadwal webinar tidak akan ter-update di database webinar yang sudah ada sebelumnya.
 
 ![Screenshot 2024-10-13 233121](https://github.com/user-attachments/assets/92cab846-7387-4be4-b0e9-a4594c1910d2)
+
+[4]. Delete Webinar
+
+Operasi ini digunakan untuk menghapus daftar jadwal webinar yang sudah tersedia sebelumnya. Setelah itu Admin akan ditanya kembali apakah ingin menghapus jadwal webinar lagi atau tidak menggunakan sistem looping/perulangan.
+
+![Screenshot 2024-10-13 234726](https://github.com/user-attachments/assets/7a9908ea-1d74-4665-a8e9-c63fb1b97766)
+
+Jika Admin menginputkan input "ya", maka program otomatis akan kembali ke operasi Delete Webinar seperti sebelumnya. Dan seperti yang terlihat di daftar webinar dibawah bahwa jadwal webinar yang ingin dihapus tadi telah berhasil terhapus di database webinar.
+
+![Screenshot 2024-10-13 235723](https://github.com/user-attachments/assets/8663551f-2af8-4396-89a9-8394f4ebc7cb)
+
+Jika admin menginputkan input "tidak" maka program otomatis akan kembali ke mode Admin.
+
+![Screenshot 2024-10-14 001119](https://github.com/user-attachments/assets/72ccf01e-6e26-4675-89a1-363f1eb35548)
+
+
+
+
+
 
 
