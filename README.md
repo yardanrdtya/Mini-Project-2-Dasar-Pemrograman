@@ -13,6 +13,19 @@ User bisa memilih 2 mode login, yaitu mode Admin dan mode Peserta.
 ![Screenshot 2024-10-13 201152](https://github.com/user-attachments/assets/ce063945-2a1e-4e4f-bde3-d5d78d13564c)
 
 # Penjelasan Program Login
-[1]. Admin : Mengelola daftar webinar yang tersedia, dan menerapkan CRUD (Create, Read, Update, dan Delete) pada webinar.
+Admin dapat melakukan operasi CRUD (Create, Read, Update, dan Delete) untuk mengelola webinar, sedangkan peserta hanya dapat melihat daftar webinar dan mendaftar untuk mengikuti webinar tersebut.
 
-[2]. Peserta : Melihat daftar webinar yang tersedia, dan mendaftar untuk mengikuti webinar.
+Ketika user menginputkan input yang tidak sesuai, maka program otomatis akan kembali ke mode login.
+
+![Screenshot 2024-10-13 201812](https://github.com/user-attachments/assets/b40a500a-e8b4-4f82-9c5f-2ea496747f57)
+
+# Mode Admin
+pada mode admin, user akan diberikan 5 operasi CRUD (Create, Read, Update, dan Delete), dan user diminta untuk menginputkan angka sesuai operasi yang disediakan.
+
+![Screenshot 2024-10-13 205328](https://github.com/user-attachments/assets/5ee1e5e5-3baf-4117-83a0-a3931eb19a41)
+
+
+
+
+
+
