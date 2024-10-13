@@ -22,10 +22,24 @@ Ketika user menginputkan input yang tidak sesuai, maka program otomatis akan kem
 # Mode Admin
 pada mode admin, user akan diberikan 5 operasi CRUD (Create, Read, Update, dan Delete), dan user diminta untuk menginputkan angka sesuai operasi yang disediakan.
 
-![Screenshot 2024-10-13 205328](https://github.com/user-attachments/assets/5ee1e5e5-3baf-4117-83a0-a3931eb19a41)
+![Screenshot 2024-10-13 210710](https://github.com/user-attachments/assets/9ac43452-b683-4754-8ca5-17ec9ebadba7)
 
+# Penjelasan Operasi CRUD
+[1]. Tambah Webinar
 
+untuk melakukan operasi Create/Tambah inputkan angka 1.
 
+![Screenshot 2024-10-13 211334](https://github.com/user-attachments/assets/6a71aaa7-4988-4e29-a4f1-9454687d1657)
 
+Setelah itu Admin diminta untuk menginputkan nomor webinar terbaru, daftar webinar, dan tanggal serta waktu webinar yang ingin ditambahkan sesuai keinginan Admin. Setelah selesai Admin akan ditanya kembali apakah ingin menambah jadwal webinar lagi atau tidak menggunakan sistem looping/perulangan.
 
+![Screenshot 2024-10-13 213016](https://github.com/user-attachments/assets/bab2d70d-4b0e-4e21-9f1e-f276113dfd17)
+
+Jika Admin menginputkan input "ya", maka program otomatis akan melakukan perulangan operasi Create seperti semula.
+
+![Screenshot 2024-10-13 213535](https://github.com/user-attachments/assets/de926d0e-ac2e-472c-8691-ef038d6166e5)
+
+Jika admin menginputkan input "tidak" maka program otomatis akan kembali ke mode Admin.
+
+![Screenshot 2024-10-13 214211](https://github.com/user-attachments/assets/bba036ea-48d2-4445-a714-0db305c8bd4f)
 
