@@ -24,7 +24,7 @@ pada mode admin, user akan diberikan 5 operasi CRUD (Create, Read, Update, dan D
 
 ![Screenshot 2024-10-13 210710](https://github.com/user-attachments/assets/9ac43452-b683-4754-8ca5-17ec9ebadba7)
 
-# Penjelasan Operasi CRUD
+# Penjelasan Operasi Admin
 [1]. Tambah Webinar
 
 untuk melakukan operasi Create/Tambah inputkan angka 1.
@@ -92,3 +92,9 @@ Jika Admin memilih "Keluar" maka Admin akan langsung ter-exit dari program dan p
 Jika Admin memilih "Kembali" maka program otomatis akan kembali ke Mode Login.
 
 ![Screenshot 2024-10-14 003245](https://github.com/user-attachments/assets/20f42162-b6a8-47a3-aa71-d5915f9f2e44)
+
+
+
+
+
+
