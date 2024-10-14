@@ -127,10 +127,10 @@ Operasi ini digunakan ketika peserta sudah selesai menggunakan operasi-operasi y
 
 ![Screenshot 2024-10-14 151726](https://github.com/user-attachments/assets/5522d432-4c76-45d6-a917-6dd3c14b734c)
 
-Jika Peserta memilih "Keluar" maka Peserta akan langsung ter-exit dari program dan program otomatis akan selesai.
-
-![Screenshot 2024-10-14 152308](https://github.com/user-attachments/assets/8864e60e-d495-42ae-8fa5-19f5ce66077c)
-
 Jika Peserta memilih "Kembali" maka program otomatis akan kembali ke Mode Login.
 
 ![Screenshot 2024-10-14 152447](https://github.com/user-attachments/assets/9a17b5ce-7c72-40e8-8443-a731860c6120)
+
+Jika Peserta memilih "Keluar" maka Peserta akan langsung ter-exit dari program dan program otomatis akan selesai.
+
+![Screenshot 2024-10-14 152308](https://github.com/user-attachments/assets/8864e60e-d495-42ae-8fa5-19f5ce66077c)
