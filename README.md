@@ -117,5 +117,20 @@ Setelah itu Peserta diminta untuk memasukkan nama peserta, email peserta, nomor 
 
 ![Screenshot 2024-10-14 114209](https://github.com/user-attachments/assets/5ab6cc6b-b06b-4673-99ee-f11d1e663b62)
 
+Jika peserta memasukkan daftar webinar yang tidak sesuai atau tidak tersedia, maka peserta otomatis akan diarahkan kembali ke operasi daftar webinar seperti semula.
 
+![Screenshot 2024-10-14 151516](https://github.com/user-attachments/assets/c16df1c7-832c-4020-9d14-ceaed33756f1)
 
+[3]. Keluar/Kembali ke Mode Login
+
+Operasi ini digunakan ketika peserta sudah selesai menggunakan operasi-operasi yang ada di Mode Peserta. Lalu setelah itu Peserta diberikan 2 opsi, yaitu keluar dari program atau kembali ke Mode Login.
+
+![Screenshot 2024-10-14 151726](https://github.com/user-attachments/assets/5522d432-4c76-45d6-a917-6dd3c14b734c)
+
+Jika Peserta memilih "Keluar" maka Peserta akan langsung ter-exit dari program dan program otomatis akan selesai.
+
+![Screenshot 2024-10-14 152308](https://github.com/user-attachments/assets/8864e60e-d495-42ae-8fa5-19f5ce66077c)
+
+Jika Peserta memilih "Kembali" maka program otomatis akan kembali ke Mode Login.
+
+![Screenshot 2024-10-14 152447](https://github.com/user-attachments/assets/9a17b5ce-7c72-40e8-8443-a731860c6120)
