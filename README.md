@@ -45,7 +45,7 @@ Jika admin menginputkan input "tidak" maka program otomatis akan kembali ke mode
 
 [2]. Lihat Daftar Webinar
 
-Operasi ini digunakan untuk melihat daftar jadwal webinar yang sudah tersedia, dan juga jadwal webinar yang telah ditambahkan sebelumnya. Setelah operasi dijalankan maka program otomatis akan kembali ke mode Admin.
+Operasi ini digunakan Admin untuk melihat daftar jadwal webinar yang sudah tersedia, dan juga jadwal webinar yang telah ditambahkan sebelumnya. Setelah operasi dijalankan maka program otomatis akan kembali ke mode Admin.
 
 ![Screenshot 2024-10-13 224619](https://github.com/user-attachments/assets/f7c9cd93-2bf7-4c90-b0ff-a7f9f26b709e)
 
@@ -53,7 +53,7 @@ Operasi ini digunakan untuk melihat daftar jadwal webinar yang sudah tersedia, d
 
 [3]. Update Webinar
 
-Operasi ini digunakan untuk melakukan perubahan jadwal webinar, seperti tanggal atau waktu webinar yang ingin dirubah sesuai keinginan Admin.
+Operasi ini digunakan apabila Admin ingin melakukan perubahan jadwal webinar, seperti tanggal atau waktu webinar yang ingin dirubah sesuai keinginan Admin.
 
 ![Screenshot 2024-10-13 230155](https://github.com/user-attachments/assets/76a485cb-5a58-45cf-9ace-2e040ec11acf)
 
@@ -67,7 +67,7 @@ Jika Admin menginputkan nilai yang tidak valid, maka program otomatis akan kemba
 
 [4]. Delete Webinar
 
-Operasi ini digunakan untuk menghapus daftar jadwal webinar yang sudah tersedia sebelumnya. Setelah itu Admin akan ditanya kembali apakah ingin menghapus jadwal webinar lagi atau tidak menggunakan sistem looping/perulangan.
+Operasi ini digunakan apabila Admin ingin menghapus daftar jadwal webinar yang sudah tersedia sebelumnya. Setelah itu Admin akan ditanya kembali apakah ingin menghapus jadwal webinar lagi atau tidak menggunakan sistem looping/perulangan.
 
 ![Screenshot 2024-10-13 234726](https://github.com/user-attachments/assets/7a9908ea-1d74-4665-a8e9-c63fb1b97766)
 
