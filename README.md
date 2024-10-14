@@ -2,7 +2,7 @@
 Yardan Raditya Rafi' Widyadhana | 2409116037 | Sistem Informasi A 2024 | Tema Program : Sistem Pendaftaran Webinar Online
 
 # Flowchart
-![Yardan_Flowchart Mini Project 2 drawio](https://github.com/user-attachments/assets/d57f3a51-bce6-48af-a9ed-a8357bcf22a7)
+![Yardan_Flowchart Mini Project 2 drawio (1)](https://github.com/user-attachments/assets/1dd0e4f7-d450-42be-97a9-326efc4cbde1)
 
 # Tabel Profil Diri
 ![Screenshot 2024-10-13 200040](https://github.com/user-attachments/assets/5888d145-4246-4c77-bbcc-86542b7dfc6c)
