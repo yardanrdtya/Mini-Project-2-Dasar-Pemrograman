@@ -20,7 +20,7 @@ Ketika user menginputkan input yang tidak sesuai, maka program otomatis akan kem
 ![Screenshot 2024-10-13 201812](https://github.com/user-attachments/assets/b40a500a-e8b4-4f82-9c5f-2ea496747f57)
 
 # Mode Admin
-pada mode admin, user akan diberikan 5 operasi CRUD (Create, Read, Update, dan Delete), dan user diminta untuk menginputkan angka sesuai operasi yang disediakan.
+pada mode Admin, user akan diberikan 5 operasi CRUD (Create, Read, Update, dan Delete), dan user diminta untuk menginputkan angka sesuai operasi yang disediakan.
 
 ![Screenshot 2024-10-13 210710](https://github.com/user-attachments/assets/9ac43452-b683-4754-8ca5-17ec9ebadba7)
 
@@ -94,8 +94,10 @@ Jika Admin memilih "Kembali" maka program otomatis akan kembali ke Mode Login.
 ![Screenshot 2024-10-14 003245](https://github.com/user-attachments/assets/20f42162-b6a8-47a3-aa71-d5915f9f2e44)
 
 # Mode Peserta
+pada mode Peserta, user akan diberikan 3 operasi yaitu melihat daftar webinar dan mendaftar untuk mengikuti webinar, lalu user diminta untuk menginputkan angka sesuai operasi yang disediakan.
 
+![Screenshot 2024-10-14 105131](https://github.com/user-attachments/assets/5245aeff-f11f-4d3a-8b01-6022b99013d7)
 
-
-
+# Penjelasan Operasi Peserta
+[1]. Lihat Daftar Webinar
 
