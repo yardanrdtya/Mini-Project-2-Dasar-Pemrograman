@@ -53,7 +53,7 @@ Operasi ini digunakan Admin untuk melihat daftar jadwal webinar yang sudah terse
 
 [3]. Update Webinar
 
-Operasi ini digunakan apabila Admin ingin melakukan perubahan jadwal webinar, seperti tanggal atau waktu webinar yang ingin dirubah sesuai keinginan Admin.
+Operasi ini digunakan ketika Admin ingin melakukan perubahan jadwal webinar, seperti tanggal atau waktu webinar yang ingin dirubah sesuai keinginan Admin.
 
 ![Screenshot 2024-10-13 230155](https://github.com/user-attachments/assets/76a485cb-5a58-45cf-9ace-2e040ec11acf)
 
@@ -67,7 +67,7 @@ Jika Admin menginputkan nilai yang tidak valid, maka program otomatis akan kemba
 
 [4]. Delete Webinar
 
-Operasi ini digunakan apabila Admin ingin menghapus daftar jadwal webinar yang sudah tersedia sebelumnya. Setelah itu Admin akan ditanya kembali apakah ingin menghapus jadwal webinar lagi atau tidak menggunakan sistem looping/perulangan.
+Operasi ini digunakan ketika Admin ingin menghapus daftar jadwal webinar yang sudah tersedia sebelumnya. Setelah itu Admin akan ditanya kembali apakah ingin menghapus jadwal webinar lagi atau tidak menggunakan sistem looping/perulangan.
 
 ![Screenshot 2024-10-13 234726](https://github.com/user-attachments/assets/7a9908ea-1d74-4665-a8e9-c63fb1b97766)
 
@@ -100,4 +100,22 @@ pada mode Peserta, user akan diberikan 3 operasi yaitu melihat daftar webinar da
 
 # Penjelasan Operasi Peserta
 [1]. Lihat Daftar Webinar
+
+Operasi ini digunakan Peserta untuk melihat daftar jadwal webinar yang sudah tersedia. Setelah operasi dijalankan maka program otomatis akan kembali ke mode Peserta.
+
+![Screenshot 2024-10-14 112632](https://github.com/user-attachments/assets/51842e13-5c43-40f1-b14a-c267f92d3d9f)
+
+![Screenshot 2024-10-14 112855](https://github.com/user-attachments/assets/786825b2-9a0f-42dc-b942-f6ad9aca1e78)
+
+[2]. Daftar Webinar
+
+Operasi ini digunakan Peserta untuk mendaftar webinar yang ingin diikuti sesuai keinginan Peserta.
+
+![Screenshot 2024-10-14 113611](https://github.com/user-attachments/assets/d035ebf2-4ac4-4c4f-9f3d-a5bd656b744e)
+
+Setelah itu Peserta diminta untuk memasukkan nama peserta, email peserta, nomor telepon peserta, dan nomor daftar webinar yang ingin diikuti sesuai keinginan Peserta. Ketika Peserta sudah selesai memasukkan data-data dari peserta maka peserta akan mendapatkan informasi bahwa status pendaftaran webinar peserta telah berhasil, dan program otomatis akan selesai.
+
+![Screenshot 2024-10-14 114209](https://github.com/user-attachments/assets/5ab6cc6b-b06b-4673-99ee-f11d1e663b62)
+
+
 
